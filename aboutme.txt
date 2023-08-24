@@ -1,0 +1,3 @@
+Cynthia omusundi 
+134564
+A web based machine learning tool for monitoring and detecting late blight in tomato plants 
